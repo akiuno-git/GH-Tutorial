@@ -2,3 +2,5 @@ File-Name: test_shared.txt
 Description: This is the shared-tutorial file for GitHub.
 
 以下に何か入力してください...
+mizukou
+murakamiryouta
